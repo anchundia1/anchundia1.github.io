@@ -13,6 +13,7 @@ He vivido casi toda mi vida en Guayaquil, tengo bastantes familiares aqui y esta
 ## Mis Padres
 
 Mi Madre **Karina Saltos Chavez** Licencia en Enfermeria, nacio el 1 de febrero del año 1973, a sus 20 años de edad conocio a mi padre, **Jose Abilio Sanchez Granda** y tuvieron una hija, a la cual llamaron **Vanessa Mishele** (Mi Hermana) 4 años despues me tuvieron a mi.
+
 Mi padre **Jose Abilio Sanchez Granda** actualmente es un oficial de la policia retirado, Trabajó en la policia alrededor de 30 años,el vino de una familia de clase baja, igual que mi madre, ellos se conocieron en Manabi cuando mi papa trabajaba alla, antes de ser enviado a Guayaquil.
 
 ## Mi Infancia
