@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de mi
+title: Acerca de
 description: An optional about page for Scriptor Jekyll theme
 feature_image: images/29064015_1007869349361864_7626168056336608060_o.jpg
 ---
