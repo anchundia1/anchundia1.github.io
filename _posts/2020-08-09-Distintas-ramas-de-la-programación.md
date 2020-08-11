@@ -3,7 +3,7 @@ layout: post
 title: "Distintas ramas de la programación"
 description: "Ramas que abarcan la programación."
 date: 2020-08-09
-feature_image: images/programacion2.jpg
+feature_image: images/programacion3.jpg
 tags: [tips, work]
 ---
 
