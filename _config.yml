@@ -20,7 +20,7 @@ navigation:
   - text: Mi Educacion
     url: /Educacion
   - text: Archivos
-    url: /tags/
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 disqus: Sanchez S. Jose
