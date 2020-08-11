@@ -15,7 +15,7 @@ google_analytics: ""
 navigation:
   - text: Inicio
     url: /
-  - text: about
+  - text: Acerca de
     url: /about/
   - text: Mi Educacion
     url: /style-guide/
