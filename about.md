@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About this blog
+title: Acerca de mi
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+feature_image: images/29064015_1007869349361864_7626168056336608060_o.jpg
 ---
 
 **John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
