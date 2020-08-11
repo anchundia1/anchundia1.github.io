@@ -4,7 +4,7 @@ title: "Distintas ramas de la programación"
 description: "Ramas que abarcan la programación."
 date: 2020-08-09
 feature_image: images/programacion3.jpg
-tags: [tips, work]
+tags: [Info, Programacion]
 ---
 
 Hoy les voy a hablar de un tema muy interesante: las distintas ramas de la programación, qué pueden hacer cuando aprendan a programar, y a qué se pueden dedicar. A continuación les contaré sobre algunas de las ramas de la programación, como para que tengan una idea general por dónde empezar, qué conceptos explorar primero y, eventualmente, qué curso tomar. También hay muchas otras ramas pero voy a empezar por las más populares, con las que más se van a topar si empiezan a buscar cursos y ofertas laborales, con las que tienen que ver con empresas que se dedican a hacer cosas con internet. Seguramente existen muchas empresas que se basan fuertemente en lo que es programación pero quizás no tengan un contacto tan fuerte con internet como son las "puntocom". Me referiré a la web y a las aplicaciones.
