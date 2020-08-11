@@ -6,7 +6,7 @@ description: This is a style guide of the Scriptor Jekyll theme
 
 Empecé a los 5 años a estudiar en la escuela, fue en una escuela publica cerca de la zona de la Florida, estudie alrededor de 1 años en esa escuela, aprendí lo básico hasta que me mude a otra parte de la ciudad y tuve que cambiarme de escuela
 
-# Unidad Educativa Rockefeller
+## Unidad Educativa Rockefeller
 
 Estudie 2 en esa escuela, me gusto bastante como enseñaban en esa escuela pero el unico incoveniente es que me quedaba muy lejos, conocí gente que al día de hoy sigo teniendo contacto con ellos, mis calificaciones eran de un promedio de 8, me encantaba la clase de computación, recuerdo que en esos años trabajábamos aun con disquetes.
 
