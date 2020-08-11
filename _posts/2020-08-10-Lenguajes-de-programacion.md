@@ -13,7 +13,11 @@ Hoy en día los ordenadores han entrado en casi todas las industrias. Ya sea el 
 
 ## PYTHON
 
-Python es el lenguaje de programación que crece más rápido, y uno de los más importantes entre sus competidores. Lo mejor de la programación en Python es que al ser un lenguaje de alto nivel es fácil de aprender. Es el lenguaje más demandado en el mercado, y es llamado el lenguaje de programación para principiantes, ya que además de ser un lenguaje de código abierto, es fácil de entender y comprender. El lenguaje Python tiene una aplicación muy amplia, se puede ver en desarrollo de webs y aplicaciones de escritorio, servidores de red, aplicaciones de escritorio basadas en GUI, en empresas y negocios y en ciencia de datos. Algunas de las grandes empresas que utilizan el lenguaje Python son Instagram, Spotify, Amazon y Facebook.
+Python es el lenguaje de programación que crece más rápido, y uno de los más importantes entre sus competidores. Lo mejor de la programación en Python es que al ser un lenguaje de alto nivel es fácil de aprender. Es el lenguaje más demandado en el mercado, y es llamado el lenguaje de programación para principiantes, ya que además de ser un lenguaje de código abierto, es fácil de entender y comprender.
+
+El lenguaje Python tiene una aplicación muy amplia, se puede ver en desarrollo de webs y aplicaciones de escritorio, servidores de red, aplicaciones de escritorio basadas en GUI, en empresas y negocios y en ciencia de datos.
+
+Algunas de las grandes empresas que utilizan el lenguaje Python son Instagram, Spotify, Amazon y Facebook.
 
 ## R
 
