@@ -4,7 +4,7 @@ title: "La importancia de la programación en la actualidad"
 description: "Por que es importante la programacion?"
 date: 2020-08-10
 feature_image: images/programacion.jpg
-tags: [tips, Programacion]
+tags: [Noticias, Programacion]
 ---
 La **programación** ha sido la causante de que la tecnología haya podido avanzar hasta como la encontramos en la actualidad, permitiendo que se desarrollen inventos que faciliten la vida a todas las personas.
 
