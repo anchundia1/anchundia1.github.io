@@ -16,9 +16,9 @@ navigation:
   - text: Inicio
     url: /
   - text: Acerca de
-    url: /about/
+    url: /about
   - text: Mi Educacion
-    url: /Educacion/
+    url: /Educacion
   - text: Archivos
     url: /tags/
 
