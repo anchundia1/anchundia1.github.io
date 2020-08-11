@@ -4,7 +4,7 @@ title: "LENGUAJES DE PROGRAMACIÓN CON MÁS FUTURO EN 2020"
 description: "Los lenguajes de programacion con mas oportunidades en la actualidad"
 date: 2020-08-10
 feature_image: images/lenguajes.jpg
-tags: [tips, Programacion]
+tags: [Codigos, Programacion]
 ---
 
 Hoy en día los ordenadores han entrado en casi todas las industrias. Ya sea el piloto automático de un avión o el velocímetro digital de una bicicleta, los ordenadores en sus varias formas nos rodean. Por ello una de las habilidades más importantes que hay que aprender en el mundo actual es saber escribir un programa para ordenador. Todo principiante se pregunta ¿Qué lenguaje debo aprender?
