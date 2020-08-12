@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LENGUAJES DE PROGRAMACIÓN CON MÁS FUTURO EN 2020"
+title: "Lenguajes de programación con más futuro en 2020"
 description: "Los lenguajes de programacion con mas oportunidades en la actualidad"
 date: 2020-08-10
 feature_image: images/lenguajes.jpg
