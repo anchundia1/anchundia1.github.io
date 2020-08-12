@@ -3,7 +3,6 @@ layout: post
 title: "Mis codigos en Pseint"
 description: "codigos."
 date: 2020-01-02
-feature_image: images/aqui va imagen
 tags: [Programacion, Codigos]
 ---
 
@@ -11,26 +10,23 @@ Mis codigos en Pseint
 
 <!--more-->
 
-## Codigo de Suma
-Algoritmo sin_titulo
+## Codigo de Suma		
+		Algoritmo sin_titulo
 		Definir x, z Como Entero
 		Escribir "Ingrese un numero"
 		leer x
 		Escribir " ingrese otro numero"
 		leer z
 		Escribir "la suma de ambos es " x+z
-		
 		si x+z >= 10 Entonces
 			Escribir x+z " Es mayor que ", 10
 		SiNo
 			escribir x+z " Es menor que ", 10
 		FinSi
-
-FinAlgoritmo
+		FinAlgoritmo
 
 ## Codigo de Edad
-
-Algoritmo MayorDeEdad
+	Algoritmo MayorDeEdad
 	Definir edad Como Entero;
 	Escribir "Ingrese una edad:";
 	leer edad;
@@ -39,13 +35,11 @@ Algoritmo MayorDeEdad
 	SiNo;
 		Escribir "Es menor de edad";
 	FinSi
-	
-FinAlgoritmo
+	FinAlgoritmo
 
 
 ## Codigo de Numero mayor
-
-Algoritmo sin_titulo
+	Algoritmo sin_titulo
 	Definir x, z Como Entero
 	Escribir "Ingrese un numero"
 	leer x
@@ -57,4 +51,6 @@ Algoritmo sin_titulo
 	SiNo
 		escribir Z " Es mayor que ", x
 	FinSi
-FinAlgoritmo
+	FinAlgoritmo
+
+
