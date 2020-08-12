@@ -10,7 +10,7 @@ Mis codigos en Pseint
 
 <!--more-->
 
-## Codigo de Suma		
+## Codigo de Mayor o Menor que 10		
 		Algoritmo sin_titulo
 		Definir x, z Como Entero
 		Escribir "Ingrese un numero"
