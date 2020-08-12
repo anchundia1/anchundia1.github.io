@@ -8,7 +8,7 @@ Empecé a los 5 años a estudiar en la escuela, fue en una escuela publica cerca
 
 # Unidad Educativa Rockefeller
 
-Estudie 2 en esa escuela, me gusto bastante como enseñaban en esa escuela pero el unico incoveniente es que me quedaba muy lejos, conocí gente que al día de hoy sigo teniendo contacto con ellos, mis calificaciones eran de un promedio de 8, me encantaba la clase de computación, recuerdo que en esos años trabajábamos aun con disquetes.
+Estudie 2 años en esta escuela, me gusto bastante como enseñaban en esa escuela pero el unico incoveniente es que me quedaba muy lejos, conocí gente que al día de hoy sigo teniendo contacto con ellos, mis calificaciones eran de un promedio de 8, me encantaba la clase de computación, recuerdo que en esos años trabajábamos aun con disquetes.
 
 
 # Unidad Educativa Mundial
