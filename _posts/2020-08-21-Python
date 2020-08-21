@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Python"
+description: "Por que es importante la programacion?"
+date: 2020-08-21
+feature_image: images/python.jfif                         
+---
+Es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.2 Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma. Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License.
+
+<!--more-->
+
+##  Filosofia de Python
+
+>Bello es mejor que feo.
+>Explícito es mejor que implícito.
+>Simple es mejor que complejo.
+>Complejo es mejor que complicado.
+>Plano es mejor que anidado.
+>Disperso es mejor que denso.
+>La legibilidad cuenta.
+>Los casos especiales no son tan especiales como para quebrantar las reglas.
+>Lo práctico gana a lo puro.
+>Los errores nunca deberían dejarse pasar silenciosamente.
+>A menos que hayan sido silenciados explícitamente.
+>Frente a la ambigüedad, rechaza la tentación de adivinar.
+>Debería haber una —y preferiblemente solo una— manera obvia de hacerlo.
+>Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.23
+>Ahora es mejor que nunca.
+>Aunque nunca es a menudo mejor que ya mismo.
+>Si la implementación es difícil de explicar, es una mala idea.
+>Si la implementación es fácil de explicar, puede que sea una buena idea.
+>Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
+
+##  Interprete de Python
+
+El intérprete de Python estándar incluye un modo interactivo en el cual se escriben las instrucciones en una especie de intérprete de comandos: las expresiones pueden ser introducidas una a una, pudiendo verse el resultado de su evaluación inmediatamente, lo que da la posibilidad de probar porciones de código en el modo interactivo antes de integrarlo como parte de un programa. Esto resulta útil tanto para las personas que se están familiarizando con el lenguaje como para los programadores más avanzados.
+Existen otros programas, tales como IDLE, bpython o IPython que añaden funcionalidades extra al modo interactivo, como el autocompletado de código y el coloreado de la sintaxis del lenguaje.
+
+Ejemplo del modo interactivo
+
+
+>>> 1 + 1
+
+2
+
+>>> a = range(10)
+
+>>> print(list(a))
+
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+
+
