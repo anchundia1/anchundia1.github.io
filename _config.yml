@@ -3,9 +3,9 @@
 
 lang: es-EC
 
-title: "Sanchez S. Jose"
+title: "Jaime Anchundia"
 
-description: "Blog de Sanchez S. Jose :)"
+description: "Bienevenidos al Blog de Jaime Anchundia"
 
 baseurl: ""
 
@@ -15,7 +15,7 @@ google_analytics: ""
 navigation:
   - text: Inicio
     url: /
-  - text: Acerca de
+  - text: Sobre Mi
     url: /about
   - text: Mi Educacion
     url: /Educacion
@@ -23,7 +23,7 @@ navigation:
     url: /tags
 
 # The shortname for your Disqus site to enable comments.
-disqus: Sanchez S. Jose
+disqus: Jaime Anchundia
 
 # Colors
 accent_color: '#2d72d9'
