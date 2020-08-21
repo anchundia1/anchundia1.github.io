@@ -3,7 +3,6 @@ layout: post
 title: "Los 10 Lenguajes de programacion con mayor demanda en el 2020"
 date: 2020-08-21
 feature_image: images/programacion.jpg
-tags: [Codigos, Programacion]
 ---
 
 Según HIRED en la tabla con los 10 lenguajes con mayor demanda en el 2020, observamos que Python no aparece en este top, el por qué, se debe a que en las estadísticas, se observa que estas encuestas se enfocan en los 10 lenguajes de programación que cuentan con menos competencia y más oportunidades laborales.
