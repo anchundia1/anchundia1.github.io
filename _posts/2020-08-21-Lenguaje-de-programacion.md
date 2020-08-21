@@ -28,7 +28,11 @@ Se observa que el lenguaje de programación que encabeza la lista es GO a causa 
 
 Vemos que el lenguaje de programación GO, siempre está es los primeros puestos, es decir, el mercado solicita con urgencia especialistas expertos en este lenguaje.
 
-##   Lenguaje de programación más usado por los ingenieros de Software:En este parámetro si podemos observar que los que encabezan en esta lista, son: JavaScript y Python, esto se debe a que son los lenguajes de programación más amados y usados por los ingenieros de desarrollo.
+##   Lenguaje de programación más usado por los ingenieros de Software:
+
+En este parámetro si podemos observar que los que encabezan en esta lista, son: JavaScript y Python, esto se debe a que son los lenguajes de programación más amados y usados por los ingenieros de desarrollo.
+
+
 
 
 
